@@ -56,12 +56,8 @@ This is demo project for checking the back-end with devops. This is first projec
 18. All the steps need for the jenkins...
 
   
-  
-  
-  
-  
-  
-  
+19. To stat in redhut jenkins server
+  sudo systemctl start jenkins
   
   
   
